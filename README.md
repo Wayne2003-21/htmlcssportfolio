@@ -4,7 +4,7 @@ Welcome to my personal portfolio website built using only **HTML** and **CSS**. 
 
 ## 🌐 Live Demo
 
-🚀 [View the live site on Netlify](https://your-netlify-link.netlify.app) *(replace with your actual Netlify URL)*
+🚀 [View the live site on Netlify](https://portfolio202.netlify.app) 
 
 ---
 
